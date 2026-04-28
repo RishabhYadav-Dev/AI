@@ -1,6 +1,3 @@
-# AIM: Program on informed search methods.
-# TITLE: To implement a Star search method program in python.
-
 #code
 import heapq
 
@@ -54,12 +51,18 @@ path, cost = a_star(graph, 'A', 'J', h)
 print("Path:", path)
 print("Cost:", cost)
 
+
+
+
+
+
 # Output
 # Path: ['A', 'C', 'F', 'H', 'J']
 # Cost: 16
 
 
-
+# AIM: Program on informed search methods.
+# TITLE: To implement a Star search method program in python.
 
 # Informed search algorithms are a type of search algorithm that uses heuristic functions to guide the
 # search process. For example, a heuristic function calculates the cost of moving from a starting state
