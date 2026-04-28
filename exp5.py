@@ -1,6 +1,3 @@
-# Title: To implement any game in Python
-# Aim: Program on game playing algorithm
-#Code
 # Create an empty board (9 positions)
 board = [" "] * 9
 
