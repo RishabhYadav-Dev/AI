@@ -1,8 +1,5 @@
 # Title: To implement any game in Python
 # Aim: Program on game playing algorithm
-
-
-
 #Code
 # Create an empty board (9 positions)
 board = [" "] * 9
@@ -148,6 +145,9 @@ for move in range(1, 10):
 # -----------
 
 
+
+# Title: To implement any game in Python
+# Aim: Program on game playing algorithm
 
 #Theory:
 
