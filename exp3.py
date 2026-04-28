@@ -1,5 +1,3 @@
-# AIM: Program on uninformed search methods.
-# TITLE: To write program on uninformed search methods using DFS and BFS methods.
 
 # ##BFS## #<------
 from collections import deque
@@ -61,6 +59,9 @@ dfs(graph, 'A')
 
 
 
+
+# AIM: Program on uninformed search methods.
+# TITLE: To write program on uninformed search methods using DFS and BFS methods.
 
 # THEORY:
 # Uninformed search is a class of general-purpose search algorithms which operates in brute force-
